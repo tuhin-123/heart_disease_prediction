@@ -103,8 +103,8 @@ By analyzing patterns in patient data, the system can help in **early diagnosis*
 ## 🧑‍💻 Author
 
 **Tuhin Mondal**  
-Machine Learning Certification Coursework  
-📅 July 2025  
+**Data Analysis Internship Certification Coursework – July 2025**  
+📘 Project: Heart Disease Prediction
 🔗 GitHub: [tuhin-123](https://github.com/tuhin-123)  
 🔗 LinkedIn: [Tuhin Mondal](https://www.linkedin.com/in/tuhin-mondal)
 
